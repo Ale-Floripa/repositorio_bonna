@@ -48,31 +48,3 @@ function getStage(user) {
     return banco1.db[user].stage;
 }
 
-/**
- * Código para envio de uma única mensagem
- *  client.on('message', msg => {
-    //console.log(message);
-    if(msg.body === 'Olá') {
-      client.sendMessage(msg.from, 'Bem vindo!');
-    }
-  });
-
- * 
- * 
- * 
- * 
- * 
- * 
- * Resposta em cima de outra
- * client.on('message', msg => {
-    if (msg.body == 'Olá') {
-        msg.reply('Olá, sou um assistente virtual e estou em fase de testes!');
-    }
-});
-
-
-
-
- * const client = new Client();
- * 
- */
