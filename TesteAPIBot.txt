@@ -1,0 +1,4 @@
+Estou realizando um teste com duas API's para criar um bot para whatsapp. Utilizei no primeiro momento o Vennom e não tive muito sucesso,
+ele fez uma atuenticação e depois não acessou mais. Não fiz nem um outro teste para saber o que estava ocorrendo. Nas pesquisas encontrei outra API dentre as diversas,
+whatsaoo-web.js, instalei e funcionou de primeira a conexão. Misturei códigos, iniciei os testes mas travei em um momento. Não tenho conhecimentos em programação para 
+conseguir resolver este problema que consite em apenas enviar a mensagem e receber a resposta do cardápio criado.
