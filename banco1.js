@@ -1,5 +1,5 @@
 var banco1 = {
-    "5548988631808@c.us":{
+    "00000000000000@c.us":{  //incluir número válido para teste
       stage:0,
       itens:[],
     },
